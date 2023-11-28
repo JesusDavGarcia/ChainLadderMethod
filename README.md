@@ -38,7 +38,6 @@
 
 This project is part of the course "ML for Actuarial Science and Finance" at National University of Colombia.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -51,16 +50,16 @@ This project is part of the course "ML for Actuarial Science and Finance" at Nat
 <!-- CONTACT -->
 ## Contact
 
- - Jesus David Garcia [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+ - Jesus David Garcia  jdgarciaga@eunal.edu.co
 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+
 
 
 
